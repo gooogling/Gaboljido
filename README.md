@@ -48,16 +48,14 @@
 
 
 ## Member
-|            이름             |            이름             |            이름             |
+|       DS        |       CV      |       LLM      |
 |:--------------------------:|:--------------------------:|:--------------------------:|
 | <img width="200" src="https://github.com/user-attachments/assets/f38654b0-f3b9-4ce4-a6ff-36948e5013f4" /> | <img width="200" src="사진" /> | <img width="200" src="사진" /> |
-|       DS        |       CV      |       LLM      |
 |     [@이호진](https://github.com/hozzang-98)     |     [@오규리](https://github.com/tansaurus)     |     [@한승헌](https://github.com/JaylenHan)     |
 
-|            이름             |            이름             |            이름             |
+|       PM       |       Backend        |       Frontend   |
 |:--------------------------:|:--------------------------:|:--------------------------:|
 | <img width="200" src="사진" /> | <img width="200" src="https://github.com/user-attachments/assets/e5f12825-e7d1-4432-be77-3a3c1df1be20"/> | <img width="200" src="사진" /> |
-|       PM       |       Backend        |       Frontend   |
 |     [@김혜규](https://github.com/strlla4536)     |     [@방가윤](https://github.com/novzs)     |     [@유지원](https://github.com/jingwangjjang)     |
 
 
