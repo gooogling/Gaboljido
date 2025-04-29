@@ -1,6 +1,6 @@
 # 💻 GABOLJIDO
 <div align="center">
-  <img width="300" src="https://github.com/user-attachments/assets/cc756b0b-85bd-4f81-9a94-4a8098c67a1e" alt="Image" />
+  <img width="250" src="https://github.com/user-attachments/assets/cc756b0b-85bd-4f81-9a94-4a8098c67a1e" alt="Image" />
 </div>
 
 
@@ -11,12 +11,13 @@
   <br><br>
  
 ## 🧞‍♂️ Service video
-
-
+<div>
+  <img width="500" src="./assets/example.gif" alt="Image" />
+</div>
 <br><br>
 
 ## 📋 MSA structure
-<div align="center">
+<div>
 <img width="597" alt="Image" src="https://github.com/user-attachments/assets/d1665675-8329-4eaa-8c27-02722c8d2fcd" />
 </div>
   <br><br>
@@ -31,8 +32,13 @@
 <br><br>
 
 ## 🤖 Model
-<br><br>
+### MODEL pipeline
+<div>
+<img width="400" alt="Image" src="https://github.com/user-attachments/assets/52d08eeb-4b6c-472e-9d1c-8194aea9f5d8" />
+</div>
 
+
+<br><br>
 
 ## 📈 Data Flow Chart
 
