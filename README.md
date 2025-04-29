@@ -35,7 +35,8 @@
 
 ## 📈 Data Flow Chart
 
-<img src="https://github.com/user-attachments/assets/2aa94da3-9723-4763-b36c-72c547abae27" alt="Image" />
+![Dataflow](./assets/dataflow.webp)
+
 <br><br>
 
 ## 🛠️ Tech Stack
