@@ -34,7 +34,7 @@
 ## 🤖 Model
 ### MODEL pipeline
 <div>
-<img width="400" alt="Image" src="https://github.com/user-attachments/assets/52d08eeb-4b6c-472e-9d1c-8194aea9f5d8" />
+<img width="400" alt="Image" src="./assets/model_pipeline.webp" />
 </div>
 
 
