@@ -50,15 +50,15 @@
 ## Member
 |            이름             |            이름             |            이름             |
 |:--------------------------:|:--------------------------:|:--------------------------:|
-| <img width="200" src="사진" /> | <img width="200" src="사진" /> | <img width="200" src="사진" /> |
-|       Model        |       역할<br/>역할        |       역할<br/>역할        |
-|     [@이호진](링크)     |     [@오규리](링크)     |     [@한승헌](링크)     |
+| <img width="200" src="https://github.com/user-attachments/assets/f38654b0-f3b9-4ce4-a6ff-36948e5013f4" /> | <img width="200" src="사진" /> | <img width="200" src="사진" /> |
+|       DS        |       역할<br/>역할        |       역할<br/>역할        |
+|     [@이호진](https://github.com/hozzang-98)     |     [@오규리](링크)     |     [@한승헌](링크)     |
 
 |            이름             |            이름             |            이름             |
 |:--------------------------:|:--------------------------:|:--------------------------:|
-| <img width="200" src="사진" /> | <img width="200" src="https://github.com/user-attachments/assets/e5f12825-e7d1-4432-be77-3a3c1df1be20" /> | <img width="200" src="사진" /> |
+| <img width="200" src="사진" /> | <img width="200" src="https://github.com/user-attachments/assets/e5f12825-e7d1-4432-be77-3a3c1df1be20"/> | <img width="200" src="사진" /> |
 |       역할<br/>역할        |       Backend        |       역할<br/>역할        |
-|     [@김혜규](링크)     |     [@방가윤](링크)     |     [@유지원](링크)     |
+|     [@김혜규](링크)     |     [@방가윤](https://github.com/novzs)     |     [@유지원](링크)     |
 
 
 ## 🛠️ Tech Stack
