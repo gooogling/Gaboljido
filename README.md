@@ -35,7 +35,7 @@
 
 ## 📈 Data Flow Chart
 
-<img src="https://github.com/user-attachments/assets/40c97600-11a7-46d2-9502-9d1594e867fb" alt="Image" />
+<img src="https://github.com/user-attachments/assets/2aa94da3-9723-4763-b36c-72c547abae27" alt="Image" />
 <br><br>
 
 ## 🛠️ Tech Stack
