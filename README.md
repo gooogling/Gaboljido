@@ -16,9 +16,10 @@
 <br><br>
 
 ## 📋 MSA structure
-
+<div align="center">
 <img width="597" alt="Image" src="https://github.com/user-attachments/assets/d1665675-8329-4eaa-8c27-02722c8d2fcd" />
-<br><br>
+</div>
+  <br><br>
 
 ## 📄 Project Docs
 - [Notion Link](https://gyukim.notion.site/1ced5a85c434800ca230ff48797ad396?pvs=4)
@@ -38,6 +39,8 @@
 ![Dataflow](./assets/dataflow.webp)
 
 <br><br>
+
+
 
 ## 🛠️ Tech Stack
 
