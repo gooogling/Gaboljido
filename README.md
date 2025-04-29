@@ -16,6 +16,9 @@
 </div>
 <br><br>
 
+## 🗂️ System architecture
+<img width="600" alt="Image" src="https://github.com/user-attachments/assets/382bedda-4699-457b-9544-dddd40b6b106" />
+
 ## 📋 MSA structure
 <div>
 <img width="597" alt="Image" src="https://github.com/user-attachments/assets/d1665675-8329-4eaa-8c27-02722c8d2fcd" />
@@ -50,12 +53,12 @@
 ## Member
 |       DS        |       CV      |       LLM      |
 |:--------------------------:|:--------------------------:|:--------------------------:|
-| <img width="200" src="https://github.com/user-attachments/assets/f38654b0-f3b9-4ce4-a6ff-36948e5013f4" /> | <img width="200" src="사진" /> | <img width="200" src="사진" /> |
+| <img width="200" src="https://github.com/user-attachments/assets/f38654b0-f3b9-4ce4-a6ff-36948e5013f4" /> | <img width="200" src="규리사진" /> | <img width="200" src="승헌사진" /> |
 |     [@이호진](https://github.com/hozzang-98)     |     [@오규리](https://github.com/tansaurus)     |     [@한승헌](https://github.com/JaylenHan)     |
 
 |       PM       |       Backend        |       Frontend   |
 |:--------------------------:|:--------------------------:|:--------------------------:|
-| <img width="200" src="사진" /> | <img width="200" src="https://github.com/user-attachments/assets/e5f12825-e7d1-4432-be77-3a3c1df1be20"/> | <img width="200" src="사진" /> |
+| <img width="200" src="혜규사진" /> | <img width="200" src="https://github.com/user-attachments/assets/e5f12825-e7d1-4432-be77-3a3c1df1be20"/> | <img width="200" src="지원사진" /> |
 |     [@김혜규](https://github.com/strlla4536)     |     [@방가윤](https://github.com/novzs)     |     [@유지원](https://github.com/jingwangjjang)     |
 
 
